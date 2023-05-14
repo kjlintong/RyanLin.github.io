@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: ryanlinwork@outlook.com
 description: "In me the tiger sniffs the rose."
 keyword: "LT, LT Blog, 林通的博客, 林通"
-url: "https://TongLin.github.io"          # your host, for absolute URL
+url: "https://kjlintong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/kjlintong/TongLin.github.io" # you code repository
+github_repo: "https://github.com/kjlintong/kjlintong.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: TongLin.github.io    #仓库名称
+  repo: kjlintong.github.io    #仓库名称
   owner: kjlintong    #github用户名
   admin: kjlintong
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 255379fa9241cdf775e38acaf4be8281
+ba_track_id: e6b49a6508a9d4bfe8b0a19c8b1141e4
 
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
