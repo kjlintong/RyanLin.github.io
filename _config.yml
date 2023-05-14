@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: ryanlinwork@outlook.com
 description: "In me the tiger sniffs the rose."
 keyword: "LT, LT Blog, 林通的博客, 林通"
-url: "http://TongLin.github.io"          # your host, for absolute URL
+url: "https://TongLin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kjlintong/TongLin.github.io" # you code repository
 
