@@ -1,3 +1,5 @@
+---
+
 layout:     post
 title:         Hello, World!
 subtitle: 
@@ -9,9 +11,7 @@ tags:
 
     - Blog
 
-
-
-***
+---
 
 After graduating three years ago, I will return to the campus. 
 

@@ -1,3 +1,5 @@
+---
+
 layout:     post
 title:      literature notes
 subtitle:   "A brief introduction to distributed systems"
@@ -9,6 +11,10 @@ tags:
 
     - distributed system
     - literature note
+
+---
+
+
 
 *This paper mainly talks about distributed systems. The authors provide an overview of distributed systems,  perfect for anyone who are new to distributed systems.*  
 
