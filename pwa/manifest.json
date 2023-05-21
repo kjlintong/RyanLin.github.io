@@ -1,15 +1,15 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
+  "name": "LT Blog",
+  "short_name": "LT Blog",
   "description": "A personal blog by engineer",
   "icons": [{
-    "src": "icons/pwa_icon_128.png",
-    "sizes": "128x128",
-    "type": "image/png"
+    "src": "icons/pwa_icon.jpg",
+    "sizes": "512*512",
+    "type": "image/jpg"
   }, {
-    "src": "icons/pwa_icon_512.png",
+    "src": "icons/pwa_icon.jpg",
     "sizes": "512x512",
-    "type": "image/png"
+    "type": "image/jpg"
   }],
   "background_color": "#fff",
   "theme_color": "#000",
