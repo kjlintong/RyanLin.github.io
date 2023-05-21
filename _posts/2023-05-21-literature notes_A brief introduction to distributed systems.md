@@ -20,7 +20,7 @@ tags:
 
 ***
 
-![outline](../img/post-202305211.png)
+![outline](https://github.com/kjlintong/kjlintong.github.io/blob/master/img/post-202305211.png)
 
 <center>Fig.1 outline</center>
 
