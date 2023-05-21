@@ -3,7 +3,7 @@
 layout:     post
 title:         Hello, World!
 subtitle: 
-date:        2023-05-0a
+date:        2023-05-04
 author:    Ryan
 header-image: img/post-bg-re-vs-ng2.jpg
 catalog: true
