@@ -20,7 +20,7 @@ tags:
 
 ***
 
-![outline](../img/post-202305211.png)
+![outline](https://img-blog.csdnimg.cn/ed00526be2e84204903532fe9ba9ae08.png)
 
 <center>Fig.1 outline</center>
 
@@ -53,7 +53,7 @@ To achieve this characteristic, we have to think about how to manage the members
 
 > To assist the development of distributed applications, distributed systems are often organized to have a separate layer of software that is logically placed on top of the respective operating systems of the computers that are part of the system. This organization is shown in Fig.
 
-![middleware](../img/post-202305212.png)
+![middleware](https://img-blog.csdnimg.cn/7609ef27ca9447d7aea814983e027581.png)
 
 <center>Fig.2 middleware(from "A brief introduction to distributed systems")</center>
 
@@ -178,7 +178,7 @@ There are also three types of distributed computing systems:
 
 * **cloud computing**  Provides the facilities to dynamically construct infrastructure and compose what is needed from available services. Unlike grid computing, which is strongly associated with high-performance computing, cloud computing is much more than just providing lots of resources. Cloud computing is characterized by an easily usable and accessible pool of virtualized resources. And how resources are used can be configured dynamically, providing the basis for scalability: if more work needs to be done, a customer can simply acquire more resources. In practice, clouds are organized into four layers, as shown in Fig.3:
 
-  ![the organization of clouds](../img/post-202305213.png)
+  ![the organization of clouds](https://img-blog.csdnimg.cn/ae886d1ecf44409fbff7756e3362482b.png)
 
 <center>Fig.3 The organization of clouds (from "A brief introduction to distributed systems")</center>
 
